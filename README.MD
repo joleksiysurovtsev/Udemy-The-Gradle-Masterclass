@@ -1,8 +1,6 @@
-# This project is like a thesauri, a course for better understanding Gradle #
+# This project is like a thesauri, a course [ The Gradle Masterclass ](https://www.udemy.com/course/gradle-masterclass/)   for better understanding Gradle #
 
 ![img_3.png](img/logoGradle.png)
-
-## [ The Gradle Masterclass ](https://www.udemy.com/course/gradle-masterclass/) ##
 
 To understand how to write Gradle scripts, we need to know that it is possible to write scripts in the Groove and Kotlin
 programming languages.
