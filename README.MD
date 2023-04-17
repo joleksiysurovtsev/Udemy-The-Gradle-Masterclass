@@ -17,4 +17,6 @@ comfortable development, we will need to install IntelliJ IDEA.
 
 ### [Installing](P3.MD) ###
 
+An example of writing a build script
 
+### [Starting write a Gradle Build Script](P4.MD) ###
