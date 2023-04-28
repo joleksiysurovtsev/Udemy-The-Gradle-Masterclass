@@ -20,3 +20,7 @@ comfortable development, we will need to install IntelliJ IDEA.
 An example of writing a build script
 
 ### [Starting write a Gradle Build Script](P4.MD) ###
+
+A little more about Groovy
+
+[Working with strings, closures](P5.MD)
